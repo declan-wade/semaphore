@@ -1,0 +1,58 @@
+{
+ 	"mysql": {
+ 		"host": "",
+ 		"user": "",
+ 		"pass": "",
+ 		"name": "",
+ 		"options": null
+ 	},
+ 	"bolt": {
+ 		"host": "/semaphore/database.boltdb",
+ 		"user": "",
+ 		"pass": "",
+ 		"name": "",
+ 		"options": null
+ 	},
+ 	"postgres": {
+ 		"host": "",
+ 		"user": "",
+ 		"pass": "",
+ 		"name": "",
+ 		"options": null
+ 	},
+ 	"dialect": "bolt",
+ 	"port": "",
+ 	"interface": "",
+ 	"tmp_path": "/tmp/semaphore",
+ 	"cookie_hash": "mlpseoUS5U3icfMWKRgiqBlbISf6OCTGQ10qssbZ/EA=",
+ 	"cookie_encryption": "6u0JFB9a1gYNWtrqHsfHumKgMBuzXQW93J0uL4Sch+w=",
+ 	"access_key_encryption": "BeSHHtR4oZthkNDJb9dEtoJe/ZBRhhMmXh1By+bp/kc=",
+ 	"email_sender": "",
+ 	"email_host": "",
+ 	"email_port": "",
+ 	"email_username": "",
+ 	"email_password": "",
+ 	"web_host": "",
+ 	"ldap_binddn": "",
+ 	"ldap_bindpassword": "",
+ 	"ldap_server": "",
+ 	"ldap_searchdn": "",
+ 	"ldap_searchfilter": "",
+ 	"ldap_mappings": {
+ 		"dn": "",
+ 		"mail": "",
+ 		"uid": "",
+ 		"cn": ""
+ 	},
+ 	"telegram_chat": "",
+ 	"telegram_token": "",
+ 	"concurrency_mode": "",
+ 	"max_parallel_tasks": 0,
+ 	"email_alert": false,
+ 	"email_secure": false,
+ 	"telegram_alert": false,
+ 	"ldap_enable": false,
+ 	"ldap_needtls": false,
+ 	"ssh_config_path": "",
+ 	"demo_mode": false
+ }
